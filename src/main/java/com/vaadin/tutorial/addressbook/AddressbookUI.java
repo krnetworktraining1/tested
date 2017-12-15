@@ -1,6 +1,6 @@
-package com.vaadin.tutorial.addressbook;
+ackage com.vaadin.tutorial.addressbook;
 
-import javax.servlet.annotation.WebServlet;
+mport javax.servlet.annotation.WebServlet;
 
 import com.vaadin.annotations.Theme;
 import com.vaadin.annotations.Title;
